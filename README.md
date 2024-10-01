@@ -28,7 +28,7 @@ This project is a static webpage displaying a recipe for a simple omelette. It w
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/Ataize/recipe-page]
 - Live Site URL: [https://ataize.github.io/recipe-page/]
 
 ## My process
@@ -54,7 +54,5 @@ I want to try using frameworks to make development more efficient.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [https://www.frontendmentor.io/profile/Ataize)
 
