@@ -29,7 +29,7 @@ This project is a static webpage displaying a recipe for a simple omelette. It w
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://ataize.github.io/recipe-page/]
 
 ## My process
 
